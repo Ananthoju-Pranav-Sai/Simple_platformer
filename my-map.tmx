@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.0" orientation="orthogonal" renderorder="right-down" width="20" height="6" tilewidth="128" tileheight="128" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="my-map.tsx"/>
+ <layer id="1" name="Ground" width="20" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYwAvEfEDMT2W1tNBPT8AIxExUwsxADACeVACn
+  </data>
+ </layer>
+ <layer id="3" name="coins" width="20" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAeiFJZLR8BvaTYR65dtATUdD+5AACneACG
+  </data>
+ </layer>
+</map>

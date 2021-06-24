@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.0" orientation="orthogonal" renderorder="right-down" width="150" height="10" tilewidth="128" tileheight="128" infinite="0" nextlayerid="8" nextobjectid="1">
+ <tileset firstgid="1" source="my-map.tsx"/>
+ <layer id="7" name="Background" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAIDXABdwAAE=
+  </data>
+ </layer>
+ <layer id="1" name="Ground" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztlsEOgCAIhqkOdanOXnr/xyxXbc1hgiMTx7f9l3II+IcBGIZ+uktG+8yHlkCrUMwwzh++iuVi4NTUL0dcx/FVTfXVDrX/GugRpajlHgxntCbvYvfL3X9NdXgkZoev++mrluaRtnnRUu+nwvuVOuucuW3I4M+4pK8c6JshBo/7jLm+yvWFA3lfbYKx3uJL5vzVd0WJ6/91sDmeEkZs7Qinp1K+4uxFzTuXnJ5Qc4g9+1LcmlPv3zQc2gGB2ATv
+  </data>
+ </layer>
+ <layer id="6" name="Goal" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6BXsX9JY3xTSEACAAAAAPDDtAOctmXQACI=
+  </data>
+ </layer>
+ <layer id="5" name="Water" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt0MEJADAIBDBX6P7LdgFBudJfAj711CoAAAAAADZOU2nf1J9mTXnJLolu9s+8zQ7Tza8/uT+AA4Y=
+  </data>
+ </layer>
+ <layer id="2" name="coins" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt18ENACEIRFGaoP9WtwE1SwAzmP9OXlZnlMuaAb1cfL+MW1mUOmeo9OjKodIPiJg8t9nsKt07cqh02/mbT70H6vDWvdy4Y9TyzRoxE/8nT3tlzll9W5G7844nzn70/W7NDvCaD1AZAow=
+  </data>
+ </layer>
+ <layer id="4" name="plants" width="150" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzt0EsKwCAMRVF3YdHGdv+rNIKDIJZAaEe9Bx7iJxpMCQAAAAAAAPiXrBHNFawfdYdzZuxXTdHcc60E33sipo9m3vlCW+a7v6tz9Po4gz14ddF7gbd0XKACUQ==
+  </data>
+ </layer>
+</map>
